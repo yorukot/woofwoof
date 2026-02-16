@@ -2,7 +2,7 @@
 
 把一般文字轉成「狗語」，也可以再解碼回原文的 Go CLI。
 
-![Demo](assets/demo.jpg)
+![Demo](assets/demo.png)
 
 ## Quick Start
 
